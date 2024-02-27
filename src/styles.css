@@ -1,0 +1,71 @@
+
+.active-user {
+    position: relative !important;
+    font-family: 'Cookie', cursive;
+    font-size: 4vh;
+    color: #ffffff;
+    padding: 4px;
+    border-radius: 2px;
+}
+
+
+input {
+    border: none;
+}
+
+form {
+    max-width: max-content;
+}
+
+button {
+    border: none;
+    margin-left: 20px;
+    color: snow;
+}
+
+html {
+    background-image: url("./clean3.jpg");
+    background-size: cover;
+}
+
+body {
+    background-color: transparent !important;
+}
+
+h1 {
+    color: snow;
+}
+.container{
+    background: rgb(15, 90, 189);
+    box-shadow: 0 8px 32px 0 rgba(3, 18, 51, 0.897);
+    backdrop-filter: blur( 12px );
+    -webkit-backdrop-filter: blur( 12px );
+    border-radius: 10px;
+    text-align: center;
+    
+    border: 5px solid rgba(229, 227, 243, 0.945);
+    border-radius: 30px;
+    max-width: 100rem;
+    padding: 1px;
+    margin: 0 auto; /* Center the canvas horizontally */
+    background-image: url("https://media.istockphoto.com/id/175413535/photo/black-paper-texture-background-with-spotlight.jpg?s=612x612&w=0&k=20&c=KYuIATKdIllZO7pRTK1aInic1fG_mVxV_V3X1C8z97M=");
+    
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  .calendar-container {
+    top: auto ;
+    max-width: 300px; /* Adjust the width as needed */
+    box-sizing: border-box;
+    padding: 50px;
+    margin: 0 auto; /* Center the calendar horizontally */
+    background-color: chocolate;
+    font-size: medium;
+    color: black;
+    border-radius: 15px;
+    
+  }
